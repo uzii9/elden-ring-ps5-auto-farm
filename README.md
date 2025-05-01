@@ -1,5 +1,5 @@
 # elden-ring-ps5-auto-farm
-Elden Ring Zen automated Albinaurics farm, the first of it's kind.
+PS4/5 Elden Ring Zen automated Albinaurics farm, the first of it's kind.
 
 
 
